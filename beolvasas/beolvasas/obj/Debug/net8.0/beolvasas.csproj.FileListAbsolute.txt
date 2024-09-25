@@ -1,0 +1,14 @@
+C:\Users\holhos.dominik.mark\source\repos\beolvasas\beolvasas\bin\Debug\net8.0\beolvasas.exe
+C:\Users\holhos.dominik.mark\source\repos\beolvasas\beolvasas\bin\Debug\net8.0\beolvasas.deps.json
+C:\Users\holhos.dominik.mark\source\repos\beolvasas\beolvasas\bin\Debug\net8.0\beolvasas.runtimeconfig.json
+C:\Users\holhos.dominik.mark\source\repos\beolvasas\beolvasas\bin\Debug\net8.0\beolvasas.dll
+C:\Users\holhos.dominik.mark\source\repos\beolvasas\beolvasas\bin\Debug\net8.0\beolvasas.pdb
+C:\Users\holhos.dominik.mark\source\repos\beolvasas\beolvasas\obj\Debug\net8.0\beolvasas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holhos.dominik.mark\source\repos\beolvasas\beolvasas\obj\Debug\net8.0\beolvasas.AssemblyInfoInputs.cache
+C:\Users\holhos.dominik.mark\source\repos\beolvasas\beolvasas\obj\Debug\net8.0\beolvasas.AssemblyInfo.cs
+C:\Users\holhos.dominik.mark\source\repos\beolvasas\beolvasas\obj\Debug\net8.0\beolvasas.csproj.CoreCompileInputs.cache
+C:\Users\holhos.dominik.mark\source\repos\beolvasas\beolvasas\obj\Debug\net8.0\beolvasas.dll
+C:\Users\holhos.dominik.mark\source\repos\beolvasas\beolvasas\obj\Debug\net8.0\refint\beolvasas.dll
+C:\Users\holhos.dominik.mark\source\repos\beolvasas\beolvasas\obj\Debug\net8.0\beolvasas.pdb
+C:\Users\holhos.dominik.mark\source\repos\beolvasas\beolvasas\obj\Debug\net8.0\beolvasas.genruntimeconfig.cache
+C:\Users\holhos.dominik.mark\source\repos\beolvasas\beolvasas\obj\Debug\net8.0\ref\beolvasas.dll
